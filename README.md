@@ -1,45 +1,68 @@
-<h1 align="center">Hi there, I'm Mujahid 👋</h1>
+<h1 align="center">Hi, I'm Mujahid 👋</h1>
 
 <p align="center">
-  🚀 First-year BTech student @ <b>MNNIT Allahabad</b> <br>
-  💻 MERN stack • Cybersecurity • Data Analytics <br>
-  🔧 Currently building full-stack apps + security tools + dashboards
+  🎓 BTech ECE @ <b>MNNIT Allahabad</b> <br>
+  📊 Analytics & Data Science • Full-Stack Development <br>
+  🧠 National-Level Case Competitions • Technical Problem Solving
 </p>
 
 ---
 
-### 🛠️ What I'm Working On:
-- 🛡️ A **Security Assessment Platform** that automates OWASP Top 10 scans  
-- 📦 **DevTracker** – A GitHub-integrated internal dashboard (OAuth, CI/CD, Docker)  
-- 📊 A **Data Insight Platform** for public datasets with Python + Streamlit
+## 🚀 About Me
+
+I'm an engineering student interested in building solutions at the intersection of analytics, technology, and real-world problem solving.
+
+Over the past year, I've actively participated in national-level case competitions hosted by premier institutes including IITs, IIMs, IISc, NMIMS, and SRCC, working on strategy, operations, product, and analytics-oriented problem statements. Alongside this, I enjoy building technical projects that combine data analysis, backend systems, dashboards, and automation workflows.
+
+I’m particularly interested in:
+- Analytics & Data Science
+- Data-Driven Decision Making
+- Full-Stack Development
+- Product & Business-Oriented Problem Solving
+- Dashboarding & Visualization
 
 ---
 
-### 🧠 Skills & Tech:
-**Languages:** C, C++, Python, JavaScript  
-**Web:** React, Node.js, Express.js, MongoDB  
-**Data:** Pandas, NumPy, scikit-learn, Power BI  
-**Tools:** Git, GitHub, VS Code, Docker  
+## 🛠️ Current Projects
+
+### 📊 Analytics & Data Projects
+- End-to-end analytics platforms using Python, SQL, and Streamlit
+- Interactive dashboards and business insight generation
+- Public dataset analysis and predictive modeling
+
+### 💻 Development Projects
+- **DevTracker** – GitHub-integrated internal dashboard with OAuth, CI/CD, and Docker
+- Full-stack applications focused on automation, analytics, and workflow optimization
 
 ---
 
-### 🏆 Highlights:
-- 🎯 Selected Contributor at **GirlScript Summer of Code '24**
-- 🔐 Certified in **Cybersecurity**, **API Fundamentals**, and **Data Analysis**
-- 🌐 Built a personal network of 4K+ on LinkedIn (and growing)  
+## 🧰 Tech Stack
+
+### Languages
+`Python` `JavaScript` `C` `C++`
+
+### Analytics & Data
+`Pandas` `NumPy` `scikit-learn` `SQL` `Power BI`
+
+### Development
+`React` `Node.js` `Express.js` `MongoDB`
+
+### Tools
+`Git` `GitHub` `Docker` `VS Code`
 
 ---
 
-### 📫 Let's Connect:
+## 🏆 Highlights
+
+- 🥇 Multiple podium finishes across national-level case competitions
+- 🎯 Finalist across strategy, analytics, consulting, and operations challenges
+- 💼 Former Software Development Intern @ QTC
+- 🌐 Contributor @ GirlScript Summer of Code 2024
+- 📈 Active in analytics, strategy, and technical project development
+
+---
+
+## 📫 Connect With Me
+
 📧 mujahidknmohamed@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/mujahid-kalanthar)  
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MujahidKalanthar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MujahidKalanthar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+🔗 LinkedIn: linkedin.com/in/mujahid-kalanthar
