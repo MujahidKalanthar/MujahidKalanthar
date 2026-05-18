@@ -3,7 +3,7 @@
 <p align="center">
   🎓 BTech ECE @ <b>MNNIT Allahabad</b> <br>
   📊 Analytics & Data Science • Full-Stack Development <br>
-  🧠 National-Level Case Competitions • Technical Problem Solving
+  🧠 Building data-driven and real-world problem-solving projects
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 I'm an engineering student interested in building solutions at the intersection of analytics, technology, and real-world problem solving.
 
-Over the past year, I've actively participated in national-level case competitions hosted by premier institutes including IITs, IIMs, IISc, NMIMS, and SRCC, working on strategy, operations, product, and analytics-oriented problem statements. Alongside this, I enjoy building technical projects that combine data analysis, backend systems, dashboards, and automation workflows.
+Over the past year, I’ve actively participated in national-level competitions hosted by premier institutes including IITs, IIMs, IISc, NMIMS, and SRCC, working on problem statements across strategy, operations, product, innovation, and analytics domains. Alongside this, I enjoy building technical projects that combine data analysis, backend systems, dashboards, and automation workflows.
 
 I’m particularly interested in:
 - Analytics & Data Science
@@ -23,16 +23,42 @@ I’m particularly interested in:
 
 ---
 
-## 🛠️ Current Projects
+## 🛠️ Featured Projects
 
-### 📊 Analytics & Data Projects
-- End-to-end analytics platforms using Python, SQL, and Streamlit
-- Interactive dashboards and business insight generation
-- Public dataset analysis and predictive modeling
+### 🏥 SaveOnCare AI
+**Transparent & Smart Healthcare Billing Platform**
 
-### 💻 Development Projects
-- **DevTracker** – GitHub-integrated internal dashboard with OAuth, CI/CD, and Docker
-- Full-stack applications focused on automation, analytics, and workflow optimization
+A healthcare-focused platform designed to simplify and analyze medical billing under Delhi/MCD and Ayushman Bharat schemes.
+
+#### Current Features
+- Bill upload simulation
+- Dummy analysis workflows
+- Interactive frontend MVP pages
+- AI-powered bill analysis integration in progress
+
+#### Tech Stack
+`HTML` `CSS` `JavaScript` `Streamlit` `Tesseract OCR` `Groq API`
+
+#### Focus Areas
+Healthcare Analytics • OCR Pipelines • Public Datasets • AI-assisted Decision Support
+
+---
+
+### 📊 COVID-19 Analytical Dashboard & Predictor
+
+An end-to-end analytics platform that ingests real-world COVID-19 data, performs preprocessing and feature engineering, trains predictive ML models, and visualizes insights using Streamlit dashboards.
+
+#### Features
+- Automated data ingestion & cleaning
+- Predictive modeling using Random Forest
+- Interactive visualizations
+- Trend analysis and forecasting
+
+#### Tech Stack
+`Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit` `SQL`
+
+#### Focus Areas
+Predictive Analytics • Data Visualization • Dashboarding • Machine Learning
 
 ---
 
@@ -42,7 +68,7 @@ I’m particularly interested in:
 `Python` `JavaScript` `C` `C++`
 
 ### Analytics & Data
-`Pandas` `NumPy` `scikit-learn` `SQL` `Power BI`
+`Pandas` `NumPy` `Scikit-learn` `SQL` `Power BI`
 
 ### Development
 `React` `Node.js` `Express.js` `MongoDB`
@@ -52,13 +78,12 @@ I’m particularly interested in:
 
 ---
 
-## 🏆 Highlights
+## 🏆 Experience & Highlights
 
-- 🥇 Multiple podium finishes across national-level case competitions
-- 🎯 Finalist across strategy, analytics, consulting, and operations challenges
 - 💼 Former Software Development Intern @ QTC
 - 🌐 Contributor @ GirlScript Summer of Code 2024
-- 📈 Active in analytics, strategy, and technical project development
+- 🏆 Multiple podium finishes across national-level competitions
+- 📈 Active in analytics, technical development, and problem-solving projects
 
 ---
 
