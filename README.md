@@ -25,10 +25,13 @@ I’m particularly interested in:
 
 ## 🛠️ Featured Projects
 
-### 🏥 SaveOnCare AI
-**Transparent & Smart Healthcare Billing Platform**
+### 🚀 ZeptoIQ
+**Quick-Commerce Profitability & IPO Readiness Intelligence Platform**
+*National-Level Case Competition Project • MNNIT Allahabad (2nd Place 🥈)*
 
-A healthcare-focused platform designed to simplify and analyze medical billing under Delhi/MCD and Ayushman Bharat schemes.
+A strategic analytics and operational intelligence platform built around Zepto’s dark-store business model to evaluate scalability, profitability, and IPO readiness in India’s fast-growing quick-commerce ecosystem.
+
+Originally developed for a national-level consulting and strategy case competition hosted at MNNIT Allahabad, this project transforms the original pitch into a full end-to-end analytics ecosystem with forecasting, pricing intelligence, business simulations, and executive dashboards.
 
 #### Current Features
 - Bill upload simulation
@@ -41,6 +44,28 @@ A healthcare-focused platform designed to simplify and analyze medical billing u
 
 #### Focus Areas
 Healthcare Analytics • OCR Pipelines • Public Datasets • AI-assisted Decision Support
+
+---
+
+### 🏥 SaveOnCare AI
+**Transparent & Smart Healthcare Billing Platform**
+
+A healthcare-focused platform designed to simplify and analyze medical billing under Delhi/MCD and Ayushman Bharat schemes.
+
+#### Current Features
+- Executive Power BI profitability dashboard
+- Dynamic pricing intelligence engine
+- Customer profitability segmentation
+- IPO readiness scoring & valuation analytics
+- Demand forecasting & operational growth modeling
+- Strategic stress-testing simulations
+- Interactive Streamlit executive platform
+
+#### Tech Stack
+`Python` `Pandas` `NumPy` `Streamlit` `SQL` `Power BI` `Plotly` `Prophet`
+
+#### Focus Areas
+Business Intelligence • Profitability Analytics • Forecasting • Operational Strategy • Product Analytics • Executive Dashboarding • Scenario Simulation
 
 ---
 
