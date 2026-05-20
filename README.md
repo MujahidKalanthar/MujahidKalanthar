@@ -26,12 +26,10 @@ I’m particularly interested in:
 ## 🛠️ Featured Projects
 
 ### 🚀 ZeptoIQ
-**Quick-Commerce Profitability & IPO Readiness Intelligence Platform**
+**Quick-Commerce Profitability & IPO Readiness Intelligence Platform**  
 *National-Level Case Competition Project • MNNIT Allahabad (2nd Place 🥈)*
 
 A strategic analytics and operational intelligence platform built around Zepto’s dark-store business model to evaluate scalability, profitability, and IPO readiness in India’s fast-growing quick-commerce ecosystem.
-
-Originally developed for a national-level consulting and strategy case competition hosted at MNNIT Allahabad, this project transforms the original pitch into a full end-to-end analytics ecosystem with forecasting, pricing intelligence, business simulations, and executive dashboards.
 
 #### Current Features
 - Bill upload simulation
@@ -39,11 +37,11 @@ Originally developed for a national-level consulting and strategy case competiti
 - Interactive frontend MVP pages
 - AI-powered bill analysis integration in progress
 
-#### Tech Stack
-`HTML` `CSS` `JavaScript` `Streamlit` `Tesseract OCR` `Groq API`
+#### Tech Stack  
+`Python` `Pandas` `NumPy` `Streamlit` `SQL` `Power BI` `Plotly` `Prophet`
 
-#### Focus Areas
-Healthcare Analytics • OCR Pipelines • Public Datasets • AI-assisted Decision Support
+#### Focus Areas  
+Business Intelligence • Profitability Analytics • Forecasting • Operational Strategy • Product Analytics • Executive Dashboarding • Scenario Simulation
 
 ---
 
@@ -61,11 +59,11 @@ A healthcare-focused platform designed to simplify and analyze medical billing u
 - Strategic stress-testing simulations
 - Interactive Streamlit executive platform
 
-#### Tech Stack
-`Python` `Pandas` `NumPy` `Streamlit` `SQL` `Power BI` `Plotly` `Prophet`
+#### Tech Stack  
+`HTML` `CSS` `JavaScript` `Streamlit` `Tesseract OCR` `Groq API`
 
-#### Focus Areas
-Business Intelligence • Profitability Analytics • Forecasting • Operational Strategy • Product Analytics • Executive Dashboarding • Scenario Simulation
+#### Focus Areas  
+Healthcare Analytics • OCR Pipelines • Public Datasets • AI-assisted Decision Support
 
 ---
 
@@ -115,4 +113,4 @@ Predictive Analytics • Data Visualization • Dashboarding • Machine Learnin
 ## 📫 Connect With Me
 
 📧 mujahidknmohamed@gmail.com  
-🔗 LinkedIn: linkedin.com/in/mujahid-kalanthar
+🔗 LinkedIn: [linkedin.com/in/mujahid-kalanthar](https://www.linkedin.com/in/mujahid-kalanthar/)
