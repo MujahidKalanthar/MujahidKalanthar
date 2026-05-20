@@ -41,7 +41,7 @@ A strategic analytics and operational intelligence platform built around Zepto�
 `Python` `Pandas` `NumPy` `Streamlit` `SQL` `Power BI` `Plotly` `Prophet`
 
 #### Focus Areas  
-Business Intelligence • Profitability Analytics • Forecasting • Operational Strategy • Product Analytics • Executive Dashboarding • Scenario Simulation
+Business Intelligence • Profitability Analytics • Forecasting • Operational Strategy • Product Analytics • Executive Dashboarding  
 
 ---
 
@@ -112,5 +112,5 @@ Predictive Analytics • Data Visualization • Dashboarding • Machine Learnin
 
 ## 📫 Connect With Me
 
-📧 mujahidknmohamed@gmail.com  
+📧 Email: mujahidknmohamed@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/mujahid-kalanthar](https://www.linkedin.com/in/mujahid-kalanthar/)
