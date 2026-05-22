@@ -46,7 +46,7 @@ Business Intelligence • Profitability Analytics • Forecasting • Operationa
 ---
 
 ### 📈 Retention-Led D2C Growth Intelligence Platform  
-**Premium D2C Analytics & Strategic Intelligence Ecosystem**
+**Premium D2C Analytics & Strategic Intelligence Ecosystem**  
 *National-Level Marketing Case Competition Finalist • DDUC, University of Delhi*
 
 An end-to-end retention intelligence and business analytics platform inspired by the Bla Bli Blu case challenge, designed to model sustainable premium growth for D2C fragrance brands through cohort analytics, pricing intelligence, profitability simulation, and AI-powered consumer sentiment analysis.
