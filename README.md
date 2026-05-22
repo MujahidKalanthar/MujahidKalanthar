@@ -45,6 +45,29 @@ Business Intelligence • Profitability Analytics • Forecasting • Operationa
 
 ---
 
+### 📈 Retention-Led D2C Growth Intelligence Platform
+**Premium D2C Analytics & Strategic Intelligence Ecosystem**
+*National-Level Marketing Case Competition Finalist • DDUC, University of Delhi*
+
+An end-to-end retention intelligence and business analytics platform inspired by the Bla Bli Blu case challenge, designed to model sustainable premium growth for D2C fragrance brands through cohort analytics, pricing intelligence, profitability simulation, and AI-powered consumer sentiment analysis.
+
+#### Current Features
+- Executive KPI intelligence dashboard
+- Cohort retention & repeat-purchase analytics
+- Pricing & profitability simulation engine
+- Strategic scenario forecasting system
+- Customer segmentation & LTV intelligence
+- AI-powered sentiment & market intelligence layer
+- Interactive Streamlit executive analytics platform
+
+#### Tech Stack
+`Python` `Pandas` `NumPy` `Streamlit` `SQL` `Plotly` `Scikit-learn` `TextBlob` `Matplotlib` `WordCloud` `SQLite`
+
+### Focus Areas
+Business Intelligence • Retention Analytics • Product Analytics • Growth Strategy • Customer Segmentation • Scenario Forecasting • NLP & Sentiment Analysis • Executive Dashboarding
+
+---
+
 ### 🏥 SaveOnCare AI
 **Transparent & Smart Healthcare Billing Platform**
 
