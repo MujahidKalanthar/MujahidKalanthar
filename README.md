@@ -45,7 +45,7 @@ Business Intelligence • Profitability Analytics • Forecasting • Operationa
 
 ---
 
-### 📈 Retention-Led D2C Growth Intelligence Platform
+### 📈 Retention-Led D2C Growth Intelligence Platform  
 **Premium D2C Analytics & Strategic Intelligence Ecosystem**
 *National-Level Marketing Case Competition Finalist • DDUC, University of Delhi*
 
