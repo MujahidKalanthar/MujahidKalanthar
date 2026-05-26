@@ -25,6 +25,29 @@ I’m particularly interested in:
 
 ## 🛠️ Featured Projects
 
+### ⚡ VoltEdge Intelligence
+**India Energy Security & Crisis Intelligence Platform**  
+*National-Level Case Competition Project • SRCC (National Finalist 🏅)*
+
+A strategic analytics, geopolitical simulation, and macroeconomic intelligence platform built around India’s energy-security vulnerability during global disruptions such as a Strait of Hormuz disruption. Designed to model inflationary pressure, GDP slowdown, exchange-rate stress, and long-term energy resilience through scenario simulation, KPI intelligence, and dynamic policy recommendations.
+
+#### Current Features
+- Executive crisis intelligence dashboard
+- Macroeconomic KPI engine & risk scoring
+- Interactive geopolitical scenario simulator
+- Dynamic policy recommendation engine
+- Import vulnerability & crisis severity analytics
+- Energy diversification & sovereignty intelligence modules
+- Multi-page Streamlit executive platform
+
+#### Tech Stack
+`Python` `Pandas` `NumPy` `Streamlit` `SQL` `Plotly` `Matplotlib` `SQLite`
+
+#### Focus Areas
+Business Intelligence • Geopolitical Analytics • Macroeconomic Intelligence • Scenario Simulation • Policy Intelligence • Strategic Risk Analysis • Executive Dashboarding
+
+---
+
 ### 🚀 ZeptoIQ
 **Quick-Commerce Profitability & IPO Readiness Intelligence Platform**  
 *National-Level Case Competition Project • MNNIT Allahabad (2nd Place 🥈)*
@@ -37,15 +60,15 @@ A strategic analytics and operational intelligence platform built around Zepto�
 - Interactive frontend MVP pages
 - AI-powered bill analysis integration in progress
 
-#### Tech Stack  
+#### Tech Stack
 `Python` `Pandas` `NumPy` `Streamlit` `SQL` `Power BI` `Plotly` `Prophet`
 
-#### Focus Areas  
-Business Intelligence • Profitability Analytics • Forecasting • Operational Strategy • Product Analytics • Executive Dashboarding  
+#### Focus Areas
+Business Intelligence • Profitability Analytics • Forecasting • Operational Strategy • Product Analytics • Executive Dashboarding
 
 ---
 
-### 📈 Retention-Led D2C Growth Intelligence Platform  
+### 📈 Retention-Led D2C Growth Intelligence Platform
 **Premium D2C Analytics & Strategic Intelligence Ecosystem**  
 *National-Level Marketing Case Competition Finalist • DDUC, University of Delhi*
 
@@ -63,7 +86,7 @@ An end-to-end retention intelligence and business analytics platform inspired by
 #### Tech Stack
 `Python` `Pandas` `NumPy` `Streamlit` `SQL` `Plotly` `Scikit-learn` `TextBlob` `Matplotlib` `WordCloud` `SQLite`
 
-### Focus Areas
+#### Focus Areas
 Business Intelligence • Retention Analytics • Product Analytics • Growth Strategy • Customer Segmentation • Scenario Forecasting • NLP & Sentiment Analysis • Executive Dashboarding
 
 ---
@@ -71,22 +94,21 @@ Business Intelligence • Retention Analytics • Product Analytics • Growth S
 ### 🏥 SaveOnCare AI
 **Transparent & Smart Healthcare Billing Platform**
 
-A healthcare-focused platform designed to simplify and analyze medical billing under Delhi/MCD and Ayushman Bharat schemes.
+A healthcare-focused platform designed to simplify and analyze medical billing under Delhi/MCD and Ayushman Bharat schemes using OCR, public healthcare datasets, and AI-assisted decision support.
 
 #### Current Features
-- Executive Power BI profitability dashboard
-- Dynamic pricing intelligence engine
-- Customer profitability segmentation
-- IPO readiness scoring & valuation analytics
-- Demand forecasting & operational growth modeling
-- Strategic stress-testing simulations
-- Interactive Streamlit executive platform
+- OCR-powered healthcare bill extraction
+- AI-assisted bill understanding & summarization
+- Medical billing transparency workflows
+- Public healthcare pricing dataset integration
+- Streamlit-based healthcare analytics interface
+- Scheme-awareness support (Ayushman Bharat / NPPA / MCD context)
 
-#### Tech Stack  
-`HTML` `CSS` `JavaScript` `Streamlit` `Tesseract OCR` `Groq API`
+#### Tech Stack
+`HTML` `CSS` `JavaScript` `Streamlit` `Tesseract OCR` `Groq API` `SQLite`
 
-#### Focus Areas  
-Healthcare Analytics • OCR Pipelines • Public Datasets • AI-assisted Decision Support
+#### Focus Areas
+Healthcare Analytics • OCR Pipelines • Public Datasets • AI-assisted Decision Support • Healthcare Transparency
 
 ---
 
@@ -111,16 +133,22 @@ Predictive Analytics • Data Visualization • Dashboarding • Machine Learnin
 ## 🧰 Tech Stack
 
 ### Languages
-`Python` `JavaScript` `C` `C++`
+`Python` `JavaScript` `SQL` `C` `C++`
 
-### Analytics & Data
-`Pandas` `NumPy` `Scikit-learn` `SQL` `Power BI`
+### Analytics & Data Science
+`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Plotly` `Power BI` `SQLite`
 
-### Development
-`React` `Node.js` `Express.js` `MongoDB`
+### Business Intelligence & Dashboarding
+`Streamlit` `Power BI` `KPI Engineering` `Scenario Simulation`
 
-### Tools
-`Git` `GitHub` `Docker` `VS Code`
+### Web & Application Development
+`HTML` `CSS` `JavaScript` `React` `Node.js` `Express.js` `MongoDB`
+
+### AI / NLP / OCR / APIs
+`TextBlob` `Tesseract OCR` `REST APIs` `Groq API`
+
+### Tools & Workflow
+`Git` `GitHub` `Docker` `VS Code` `Jupyter Notebook`
 
 ---
 
