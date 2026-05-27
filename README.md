@@ -91,8 +91,8 @@ Business Intelligence • Retention Analytics • Product Analytics • Growth S
 
 ---
 
-### 💊 SaveOnCare AI
-**Transparent & Smart Healthcare Billing Platform**
+### 💊 SaveOnCare  
+**Transparent & Smart Healthcare Billing Platform**  
 *National-Level Civic Tech Project • IIT Jammu (National Finalist 🏅)*
 
 An AI-powered web platform that helps patients understand complex hospital bills, detect potential overcharges, and discover government scheme benefits (Ayushman Bharat & MCD hospitals). Designed to reduce billing stress and improve transparency in public healthcare.
@@ -110,24 +110,6 @@ An AI-powered web platform that helps patients understand complex hospital bills
 
 #### Focus Areas
 Healthcare Technology • Civic Tech • AI-powered Analysis • Government Scheme Intelligence • Billing Transparency • Patient Empowerment • Public Governance
-
----
-
-### 📊 COVID-19 Analytical Dashboard & Predictor
-
-An end-to-end analytics platform that ingests real-world COVID-19 data, performs preprocessing and feature engineering, trains predictive ML models, and visualizes insights using Streamlit dashboards.
-
-#### Features
-- Automated data ingestion & cleaning
-- Predictive modeling using Random Forest
-- Interactive visualizations
-- Trend analysis and forecasting
-
-#### Tech Stack
-`Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit` `SQL`
-
-#### Focus Areas
-Predictive Analytics • Data Visualization • Dashboarding • Machine Learning
 
 ---
 
