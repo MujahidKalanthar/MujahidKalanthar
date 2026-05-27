@@ -91,24 +91,25 @@ Business Intelligence • Retention Analytics • Product Analytics • Growth S
 
 ---
 
-### 🏥 SaveOnCare AI
+### 💊 SaveOnCare AI
 **Transparent & Smart Healthcare Billing Platform**
+*National-Level Civic Tech Project • IIT Jammu (National Finalist 🏅)*
 
-A healthcare-focused platform designed to simplify and analyze medical billing under Delhi/MCD and Ayushman Bharat schemes using OCR, public healthcare datasets, and AI-assisted decision support.
+An AI-powered web platform that helps patients understand complex hospital bills, detect potential overcharges, and discover government scheme benefits (Ayushman Bharat & MCD hospitals). Designed to reduce billing stress and improve transparency in public healthcare.
 
 #### Current Features
-- OCR-powered healthcare bill extraction
-- AI-assisted bill understanding & summarization
-- Medical billing transparency workflows
-- Public healthcare pricing dataset integration
-- Streamlit-based healthcare analytics interface
-- Scheme-awareness support (Ayushman Bharat / NPPA / MCD context)
+- Bill upload simulation with categorization
+- Color-coded flagging system (Green / Yellow / Red)
+- Smart Treatment Advisor for Ayushman Bharat & subsidized options
+- AI Health Assistant for bill-related queries
+- Auto-generated dispute & explanation reports
+- Responsive frontend MVP with clean UI/UX
 
 #### Tech Stack
-`HTML` `CSS` `JavaScript` `Streamlit` `Tesseract OCR` `Groq API` `SQLite`
+`HTML` `CSS` `JavaScript` `Vercel`
 
 #### Focus Areas
-Healthcare Analytics • OCR Pipelines • Public Datasets • AI-assisted Decision Support • Healthcare Transparency
+Healthcare Technology • Civic Tech • AI-powered Analysis • Government Scheme Intelligence • Billing Transparency • Patient Empowerment • Public Governance
 
 ---
 
