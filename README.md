@@ -31,7 +31,6 @@ Outside code, I compete at the national level in strategy, analytics, consulting
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 <br/>
-
 ## Achievements
 
 <div align="center">
