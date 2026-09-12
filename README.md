@@ -31,6 +31,7 @@ Outside code, I compete at the national level in strategy, analytics, consulting
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 <br/>
+
 ## Achievements
 
 <div align="center">
@@ -314,10 +315,6 @@ AI-powered platform helping patients decode hospital bills, detect overcharges, 
 ## GitHub Stats
 
 <div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=MujahidKalanthar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MujahidKalanthar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=8"/>
 
 <br/><br/>
 
