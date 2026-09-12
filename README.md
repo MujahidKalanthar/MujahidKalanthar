@@ -315,9 +315,7 @@ AI-powered platform helping patients decode hospital bills, detect overcharges, 
 ## GitHub Stats
 
 <div align="center">
-
-<br/><br/>
-
+  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MujahidKalanthar&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e"/>
 
 </div>
@@ -335,7 +333,7 @@ AI-powered platform helping patients decode hospital bills, detect overcharges, 
 
 <td width="50%" valign="top">
 
-**Software Development Intern**&nbsp;&nbsp;`QTC`
+**Software Development Intern**&nbsp;&nbsp;`Quality Techno Certification (Riyadh, Saudi Arabia)`
 
 <sub>Backend development, automation workflows, and internal tooling. Worked on real production systems with shipping responsibilities.</sub>
 
@@ -361,8 +359,6 @@ AI-powered platform helping patients decode hospital bills, detect overcharges, 
 <div align="center">
 
 <sub>MNNIT Allahabad &nbsp;·&nbsp; BTech Electronics & Communication Engineering</sub>
-
-<br/><br/>
 
 <sub>Open to internships, research collaborations, and interesting engineering problems.</sub>
 
