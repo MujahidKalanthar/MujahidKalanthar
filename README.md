@@ -36,26 +36,31 @@ Outside code, I compete at the national level in strategy, analytics, consulting
 
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="20">
 <tr>
-<td align="center" width="50%">
 
-**5+**
-<br/>
-<sub>Podium Finishes</sub>
-<br/>
+<td align="center" width="33%">
+<h2>🏆&nbsp; 5+</h2>
+<b>Podium Finishes</b><br/>
 <sub>National-level strategy, analytics,<br/>consulting & innovation competitions</sub>
-
 </td>
-<td align="center" width="50%">
 
-**10+**
-<br/>
-<sub>National Finalist / Shortlist Recognitions</sub>
-<br/>
-<sub>Competitions hosted by IITs, IIMs,<br/>IISc, NMIMS, SRCC & MNNIT</sub>
+<td align="center" width="4%"><sub>│</sub></td>
 
+<td align="center" width="33%">
+<h2>🎯&nbsp; 10+</h2>
+<b>National Finalist · Shortlisted</b><br/>
+<sub>IITs · IIMs · IISc · NMIMS · SRCC · MNNIT</sub>
 </td>
+
+<td align="center" width="4%"><sub>│</sub></td>
+
+<td align="center" width="26%">
+<h2>🗂️&nbsp; 6</h2>
+<b>Projects Shipped</b><br/>
+<sub>Full-Stack · AI/RAG · Analytics</sub>
+</td>
+
 </tr>
 </table>
 
@@ -329,22 +334,43 @@ AI-powered platform helping patients decode hospital bills, detect overcharges, 
 
 ## Experience
 
-| | |
-|---|---|
-| **Software Development Intern** — QTC | Backend development & automation workflows |
-| **Open Source Contributor** — GirlScript Summer of Code 2024 | Community-level OSS contributions |
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+**Software Development Intern**&nbsp;&nbsp;`QTC`
+
+<sub>Backend development, automation workflows, and internal tooling. Worked on real production systems with shipping responsibilities.</sub>
+
+</td>
+
+<td width="50%" valign="top">
+
+**Open Source Contributor**&nbsp;&nbsp;`GirlScript Summer of Code 2024`
+
+<sub>Community-level contributions to open source projects. Collaborated with maintainers across code review, bug fixes, and feature additions.</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mujahid-kalanthar/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mujahidknmohamed@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MujahidKalanthar)
+<sub>MNNIT Allahabad &nbsp;·&nbsp; BTech Electronics & Communication Engineering</sub>
 
-<br/>
+<br/><br/>
+
+<sub>Open to internships, research collaborations, and interesting engineering problems.</sub>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
